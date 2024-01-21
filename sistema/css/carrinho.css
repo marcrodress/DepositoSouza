@@ -1,0 +1,62 @@
+#box_busca_prod_cliente{
+	width:1000px;
+	height:60px;
+	border:1px solid #FFF;
+	background:#CCC;
+	text-align:center;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_busca_prod{
+	width:1000px;
+	height:40px;
+	border:1px solid #FFF;
+	background:#FFF;
+	margin:7px auto auto auto;
+	}	
+#box_central{
+	width:1000px;
+	height:485px;
+	padding:0;
+	margin:0;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_pagamentos{
+	width:450px;
+	height:480px;
+	float:left;
+	background:#FFF;
+	border-radius:5px;
+	}
+#box_pagamentos_opcoes{
+	}
+#box_pagamentos_opcoes_detalhes{
+	height:305px;
+	}
+#box_pagamentos_troco{
+	text-align:center;
+	padding:0;
+	margin:0;
+	height:100px;
+	}
+	
+	
+#produtos{
+	width:540px;
+	height:480px;
+	float:right;
+	text-align:center;
+	overflow:auto;
+	background:#FFF;
+	border-radius:5px;
+	}
+#produtos table{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#produtos table td{
+	border-radius:5px;
+	padding:5px;
+	font:10px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	}

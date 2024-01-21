@@ -1,0 +1,69 @@
+body{ background:url(../img/back_ground.png); }
+
+#box{
+	width:400px;
+	height:300px;
+	background:#FFF;
+	text-align:center;
+	margin:200px auto auto auto;
+	border:5px solid #CCC;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+#box h1{
+	margin:-130px 0 0 0;
+	width:400px;
+	float:left;
+	text-align:center;
+	padding:9px;
+	color:#FFF;
+	font:12px Arial, Helvetica, sans-serif;
+	background:url(../img/msg_error.png) top repeat;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:1px;
+	-webkit-border-radius:1px;
+	border-radius:1px;
+	}
+#box img{
+	margin:-90px 0 -40px 0;
+	}
+#box table{
+	width:400px;
+	text-align:left;
+	padding:5px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	}
+#box input{
+	width:370px;
+	padding:5px;
+	cursor:pointer;
+	height:20px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#090;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+#box .input{
+	width:80px;
+	padding:5px;
+	height:38px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	cursor:pointer;
+	background:#900;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+#box .img{
+	margin:40px 0 -30px 0;
+	}

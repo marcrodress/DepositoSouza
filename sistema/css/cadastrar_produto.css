@@ -1,0 +1,24 @@
+#box_central{
+	width:1000px;
+	height:auto;
+	background:#FFF;
+	padding:0;
+	margin:0;
+	font:12px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_central input{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:center;
+	color:#900;
+	margin:0 0 0 0;
+	height:15px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#box_central table{
+	text-align:center;
+	}

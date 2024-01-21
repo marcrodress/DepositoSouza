@@ -1,0 +1,38 @@
+#box_busca_prod{
+	width:1000px;
+	height:auto;
+	border:1px solid #FFF;
+	background:#FFF;
+	text-align:left;
+	font:12px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_busca_prod table{
+	margin:2px;
+	}
+#box_busca_prod table td{
+	padding:5px;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box_busca_prod_busca{
+	width:1000px;
+	height:40px;
+	background:#FFF;
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_busca_prod_busca a{
+	padding:5px;
+	background:#069;
+	color:#FFF;
+	text-align:center;
+	text-decoration:none;
+	margin:2px;
+	}
+#box_busca_prod_busca a:hover{
+	text-decoration:underline;
+	background:#060;
+	}

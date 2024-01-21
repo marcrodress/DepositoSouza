@@ -1,0 +1,24 @@
+#box_crediario{
+	width:1000px;
+	height:auto;
+	background:#FFF;
+	padding:0;
+	margin:0;
+	font:12px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	margin:7px auto auto auto;
+	}
+#box_crediario table{
+	text-align:center;
+	text-transform:uppercase;
+	margin:5px;
+	}
+#box_crediario table td{
+	padding:5px;
+	border-radius:3px;
+	font-weight: bold;
+	}
+#box_crediario .table{
+	text-align:left;
+	text-transform:uppercase;
+	}

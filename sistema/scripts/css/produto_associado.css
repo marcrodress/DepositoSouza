@@ -1,0 +1,26 @@
+#box{
+	width:auto;
+	}
+#box input{
+	padding:6px;
+	width:250px;
+	margin:5px;
+	color:#F90;
+	height:20px;
+	font:12px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box .input1{
+	padding:5px;
+	width:80px;
+	margin:5px;
+	height:35px;
+	cursor:pointer;
+	margin:0;
+	color:#000;
+	font:12px Arial, Helvetica, sans-serif;
+	}
